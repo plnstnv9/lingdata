@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-16T22:09:54+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-16T23:24:08+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Пользователь/Desktop/lindaprog/Moscow_chshg2006.avi" MIME_TYPE="video/*" RELATIVE_MEDIA_URL="./Moscow_chshg2006.avi"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f12412e7-ab79-49e5-ac1b-8eb0223c1431</PROPERTY>
@@ -2452,7 +2452,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a477" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts194">
-                <ANNOTATION_VALUE>отводит левую руку влево, ладонь тыльной стороной вниз, пружинит пару раз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>отводит правую руку вправо, ладонь тыльной стороной вниз, пружинит пару раз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2509,7 +2509,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a424" ANNOTATION_REF="a422">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "папину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2524,12 +2524,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a428" ANNOTATION_REF="a427">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "мамину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a510" ANNOTATION_REF="a430">
-                <ANNOTATION_VALUE>риторичесакий; подчеркивает ритм фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>риторический; подчеркивает ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2579,7 +2579,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a467" ANNOTATION_REF="a465">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "папину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2594,17 +2594,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a473" ANNOTATION_REF="a472">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "папину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a476" ANNOTATION_REF="a475">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "папину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a479" ANNOTATION_REF="a477">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "мамину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2649,7 +2649,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a507" ANNOTATION_REF="a504">
-                <ANNOTATION_VALUE>дейктический жест; общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительный жест; указание на "папину" сторону</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -2813,7 +2813,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a425" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>здесь и на протяжении всего отрывка информантка выбирает сторону для жеста взависимости от того, о ком/чем она говорит: папе/Татарстане/казанском диалекте и проч. — лево, маме/Нижнем Новгороде/мишарях — право. поэтому я решила указывать все похоже жесты как дейктические, как бы указание на противопоставляемые вещи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>здесь и на протяжении всего отрывка информантка выбирает сторону для жеста взависимости от того, о ком/чем она говорит: папе/Татарстане/казанском диалекте и проч. — лево, маме/Нижнем Новгороде/мишарях — право. поэтому я решила указывать все похоже жесты как изобразительные, как противопоставление/указание на одну из "сторон"</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
